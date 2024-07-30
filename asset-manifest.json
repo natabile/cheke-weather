@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cheke-weather/static/css/main.7390494d.css",
+    "main.js": "/cheke-weather/static/js/main.37ea4433.js",
+    "static/media/sunset.jpg": "/cheke-weather/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/cheke-weather/index.html",
+    "main.7390494d.css.map": "/cheke-weather/static/css/main.7390494d.css.map",
+    "main.37ea4433.js.map": "/cheke-weather/static/js/main.37ea4433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7390494d.css",
+    "static/js/main.37ea4433.js"
+  ]
+}
